@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6bb31716.css",
-    "main.js": "/react-gh-pages/static/js/main.089ffe34.js",
-    "static/js/787.5eb45056.chunk.js": "/react-gh-pages/static/js/787.5eb45056.chunk.js",
-    "static/media/etoile.png": "/react-gh-pages/static/media/etoile.f7704617ad7f6defa947.png",
-    "static/media/user.png": "/react-gh-pages/static/media/user.4e7acd21ce70331b78dd.png",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6bb31716.css.map": "/react-gh-pages/static/css/main.6bb31716.css.map",
-    "main.089ffe34.js.map": "/react-gh-pages/static/js/main.089ffe34.js.map",
-    "787.5eb45056.chunk.js.map": "/react-gh-pages/static/js/787.5eb45056.chunk.js.map"
+    "main.css": "/etoile/static/css/main.6bb31716.css",
+    "main.js": "/etoile/static/js/main.9e98b88c.js",
+    "static/js/787.5eb45056.chunk.js": "/etoile/static/js/787.5eb45056.chunk.js",
+    "static/media/etoile.png": "/etoile/static/media/etoile.f7704617ad7f6defa947.png",
+    "static/media/user.png": "/etoile/static/media/user.4e7acd21ce70331b78dd.png",
+    "static/media/logo.svg": "/etoile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/etoile/index.html",
+    "main.6bb31716.css.map": "/etoile/static/css/main.6bb31716.css.map",
+    "main.9e98b88c.js.map": "/etoile/static/js/main.9e98b88c.js.map",
+    "787.5eb45056.chunk.js.map": "/etoile/static/js/787.5eb45056.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bb31716.css",
-    "static/js/main.089ffe34.js"
+    "static/js/main.9e98b88c.js"
   ]
 }
